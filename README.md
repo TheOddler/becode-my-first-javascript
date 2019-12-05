@@ -19,6 +19,7 @@ Duration: 1 day
 3. Use `alert` to make the page say "Hello World"
 
 Hint: there is an example index file in this repo
+Hint 2: you can use the "Use this template" button at the top of this repo to create your own copy of this repo as a starting point
 
 ## Commit
 
