@@ -8,7 +8,9 @@ Create a single repository for all exercises and **make sure to commit each time
 
 Duration: 1 day
 
-## Hello World
+# Exercises:
+
+## 1. Hello World
 
 1. Create an index.html page (no bootstrap required)
 2. Include a javascript script
@@ -20,19 +22,19 @@ Hint: there is an example index file in this repo
 
 Don't forget to commit.
 
-## Code file
+## 2. Code file
 
 1. Move the previous code to it's own file, for example: `code.js`
 2. Replace the code in `index.html` with this javascript file
 
 Note: starting from here we'll always work in this code file.
 
-## Variables
+## 3. Variables
 
 1. Create a variable and give it the value `3`
 2. `Alert` this value to the user
 
-## Math
+## 4. Math
 
 1. Create a second variable, give it a value again
 2. Add these two variables together
@@ -44,24 +46,24 @@ Note: starting from here we'll always work in this code file.
 
 Did you commit after each exercise?
 
-## Interaction
+## 5. Interaction
 
 1. Use a `prompt` to ask the user for his name
 2. Show a dialog box (alert box) saying "Hello {name}!"
 
-## If
+## 6. If
 
 1. Ask the user if they are having a good day
 2. If the answer is "yes" show a dialog box stating that you're happy for them
 3. If they answer something else give them a compliment to feel better
 
-## Confirm
+## 7. Confirm
 
 1. Ask the user several questions (for instance name, age, home town, ...)
 2. Show their answers back to them, and ask to confirm they are correct
 3. If not confirmed restart the process
 
-## Calculator using prompts
+## 8. Calculator using prompts
 
 1. Use prompts to create a calculator capable of adding and subtracting
 2. Ask for two numbers
@@ -73,7 +75,7 @@ Did you commit after each exercise?
 The next exercise is a hard one.
 Make sure you have committed as you'll be changing a lot.
 
-## Calculator interface
+## 9. Calculator interface
 
 Look out, this exercise introduces several new concepts all at once, don't panic, try each new one out on it's own before combining them for the exercise.
 
