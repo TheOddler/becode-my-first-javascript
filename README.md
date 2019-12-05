@@ -4,6 +4,8 @@ Today we are learning javascript.
 At the end of the day you'll be able to call yourself a real programmer!
 
 Following there will be a number of exercises each building on the previous.
+The exercises follow on each other quite well, so try to do them in order.
+
 Create a single repository for all exercises and **make sure to commit each time you finish an exercise**.
 
 Duration: 1 day
@@ -92,6 +94,8 @@ Look out, this exercise introduces several new concepts all at once, don't panic
 And you taught *yourself* to become one.
 
 How cool is that!?
+
+![You're a programmer](https://i.imgflip.com/3ihn0e.jpg)
 
 # Helpful stuff
 
